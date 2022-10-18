@@ -31,10 +31,11 @@ In order to allow the Astar algorithm to function, there must be a maze map to b
 
 ## Choosing any goal cell but starting at only (4,4) with GUI DISPLAY
 1. Download the following files:
-        - AStar_GUI.py
-        - AStarDemo.py
-        - pyamaze.py
-        - inputfile.txt
+AStar_GUI.py
+AStarDemo.py
+pyamaze.py
+inputfile.txt
+
 2. Run AStar_GUI.py
 3. View in terminal the shortest path coordinate system
 4. A display should pop up with a red pointer showing the shortest path
